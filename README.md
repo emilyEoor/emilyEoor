@@ -1,6 +1,6 @@
 ## Emily E. Oor | Neuroscientist                   →                   Data Science | Data Analytics
 
-#### Welcome! I’m a cognitive neuroscientist transitioning into data science and analytics.                                                                                                To check out my profile, please visit my [GitHub Pages site](https://emilyeoor.github.io)!
+#### Welcome! I’m a cognitive neuroscientist transitioning into data science and analytics.                                                                                                 👉 [Visit my GitHub Pages site](https://emilyeoor.github.io) to view my profile!
 
 <br>
 
